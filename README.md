@@ -17,13 +17,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 - Data Analyst fresher, skilled in SQL, Python, Excel, and Power BI
 - I love turning raw data into clear, actionable insights
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 🧩 Coding & Data Profiles
+### Coding & Data Profiles
 
 <p align="center">
   <a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -80,13 +80,11 @@
 ---
 
 
-> 💡 Replace these with your own project links once uploaded — recruiters love clickable proof of work!
-
 ---
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
