@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst fresher turning raw data into real insights</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Fresher;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Turning+Data+Into+Decisions;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Turning+Data+Into+Decisions;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
