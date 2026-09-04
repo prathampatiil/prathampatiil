@@ -6,14 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pratham-patil-8b24243c6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pratham.patil1001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://discord.com/users/your-discord-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/your-handle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://medium.com/@your-handle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://youtube.com/@your-channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://t.me/your-handle"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
@@ -90,23 +88,10 @@
 
 ---
 
-### 📁 Featured Projects
-
-| Project | Description | Tools Used |
-|---|---|---|
-| 🛒 [Retail Sales Analysis](https://github.com/your-username/repo-link) | Analyzed sales trends and customer behavior to identify growth opportunities | Excel, SQL, Power BI |
-| 🎬 [Movie Data Dashboard](https://github.com/your-username/repo-link) | Interactive dashboard exploring ratings, genres, and revenue trends | Python, Pandas, Tableau |
-| 📉 [Customer Churn Prediction](https://github.com/your-username/repo-link) | Explored churn patterns using EDA and basic classification models | Python, Scikit-learn |
 
 > 💡 Replace these with your own project links once uploaded — recruiters love clickable proof of work!
 
 ---
-
-### 🏆 Certifications
-
-- ✅ [Google Data Analytics Certificate](#)
-- ✅ [SQL for Data Science](#)
-- ✅ [Microsoft Power BI Data Analyst](#)
 
 ---
 
