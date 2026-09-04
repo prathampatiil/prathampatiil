@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Data Analyst fresher turning raw data into real insights 📊</h3>
+<h1 align="center">Hi 👋, I'm Pratham</h1>
+<h3 align="center">A passionate Data Analyst fresher turning raw data into real insights</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+%7C+Fresher;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Turning+Data+Into+Decisions;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" />
@@ -19,14 +19,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Recent graduate exploring the world of **Data Analytics**
-- 🔍 I enjoy digging into datasets to find patterns, trends, and stories
-- 🛠️ Currently sharpening my skills in **SQL, Python, Excel, and Power BI**
-- 📈 Interested in **business intelligence, dashboards, and data storytelling**
-- 🌱 Learning: Advanced statistics & A/B testing
-- 💬 Ask me about: Data cleaning, visualization, and beginner-friendly SQL queries
-- ⚡ Fun fact: I believe every dataset has a story waiting to be found
-
+- Data Analyst fresher, skilled in SQL, Python, Excel, and Power BI
+- I love turning raw data into clear, actionable insights
 ---
 
 ### 🧰 Tech Stack & Tools
