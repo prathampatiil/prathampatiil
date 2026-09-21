@@ -42,7 +42,6 @@
 <p align="center">
   <a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.hackerrank.com/your-username"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/your-username"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
@@ -86,7 +85,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter"/></a>
 </p>
 
 <p align="center">
