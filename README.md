@@ -17,8 +17,9 @@
 
 ### About Me
 
-- Data Analyst fresher, skilled in SQL, Python, Excel, and Power BI
-- I love turning raw data into clear, actionable insights
+- Aspiring Data Professional | Analytics • Engineering • AI
+- SQL • Python • Power BI • ML • GenAI
+
 ---
 
 ### Tech Stack & Tools
